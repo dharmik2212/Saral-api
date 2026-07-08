@@ -1,0 +1,6 @@
+{"timestamp": "2026-07-08T06:38:20.480836Z", "level": "INFO", "logger": "saral_pipeline", "message": "Starting pipeline (batch mode)..."}
+{"timestamp": "2026-07-08T06:38:25.498182Z", "level": "INFO", "logger": "saral_pipeline", "message": "Found 930 pending candidates"}
+{"timestamp": "2026-07-08T06:38:25.498182Z", "level": "INFO", "logger": "saral_pipeline", "message": "DRY RUN - Processing first 10 candidates only"}
+{"timestamp": "2026-07-08T06:38:25.498182Z", "level": "INFO", "logger": "saral_pipeline", "message": "Fetching chunk 1/1 (10 URLs in 1 Apify run)"}
+{"timestamp": "2026-07-08T06:38:42.198651Z", "level": "CRITICAL", "logger": "saral_pipeline", "message": "Apify batch fetch failed: Apify limit reached: Daily free-tier limit of 10 profiles reached. Upgrade your Apify plan or wait until tomorrow."}
+{"timestamp": "2026-07-08T06:38:42.198651Z", "level": "INFO", "logger": "saral_pipeline", "message": "Pipeline complete. Final: 0 success, 0 failures"}

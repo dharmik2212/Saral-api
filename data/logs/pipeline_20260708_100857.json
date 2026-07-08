@@ -1,0 +1,6 @@
+{"timestamp": "2026-07-08T04:38:57.231271Z", "level": "INFO", "logger": "saral_pipeline", "message": "Starting pipeline (batch mode)..."}
+{"timestamp": "2026-07-08T04:39:07.388900Z", "level": "INFO", "logger": "saral_pipeline", "message": "Found 950 pending candidates"}
+{"timestamp": "2026-07-08T04:39:07.388900Z", "level": "INFO", "logger": "saral_pipeline", "message": "DRY RUN - Processing first 10 candidates only"}
+{"timestamp": "2026-07-08T04:39:07.388900Z", "level": "INFO", "logger": "saral_pipeline", "message": "Fetching chunk 1/1 (10 URLs in 1 Apify run)"}
+{"timestamp": "2026-07-08T04:39:23.063882Z", "level": "CRITICAL", "logger": "saral_pipeline", "message": "Apify batch fetch failed: Apify actor returned error for all URLs: Free users are limited to 20 runs. Please upgrade to a paid plan to run more."}
+{"timestamp": "2026-07-08T04:39:23.066646Z", "level": "INFO", "logger": "saral_pipeline", "message": "Pipeline complete. Final: 0 success, 0 failures"}

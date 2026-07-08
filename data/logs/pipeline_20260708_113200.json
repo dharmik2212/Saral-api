@@ -1,0 +1,4 @@
+{"timestamp": "2026-07-08T06:02:00.769221Z", "level": "INFO", "logger": "saral_pipeline", "message": "Starting pipeline (batch mode)..."}
+{"timestamp": "2026-07-08T06:02:05.682822Z", "level": "INFO", "logger": "saral_pipeline", "message": "Found 950 pending candidates"}
+{"timestamp": "2026-07-08T06:02:05.685439Z", "level": "INFO", "logger": "saral_pipeline", "message": "DRY RUN - Processing first 10 candidates only"}
+{"timestamp": "2026-07-08T06:02:05.685439Z", "level": "INFO", "logger": "saral_pipeline", "message": "Fetching chunk 1/1 (10 URLs in 1 Apify run)"}
